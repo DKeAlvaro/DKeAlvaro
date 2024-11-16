@@ -1,1 +1,1 @@
-![](homer-webpage.gif)
+![Header](github-header-image.png)
